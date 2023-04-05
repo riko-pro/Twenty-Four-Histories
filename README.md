@@ -1,6 +1,6 @@
 # Twenty-Four-Histories
 
-对二十四史进行分析
+使用 ElasticSearch 对二十四史进行分析
 
 本项目基于 [quzhi1](https://github.com/quzhi1) 的项目 [ChineseHistoricalSource](https://github.com/quzhi1/ChineseHistoricalSource) 
 
