@@ -8,5 +8,5 @@
 
 - 使用 ElasticSearch 8.2 版本
 - 使用 go 重写原项目 `ruby/es_feeder.rb` 文件
-- 项目部署在云服务器上，使用 docker 运行
+- 项目部署在云服务器上
 - 给出更为清晰的安装教程
